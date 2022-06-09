@@ -1,0 +1,16 @@
+.title-1{
+    font-size: 140px;
+    font-weight: bolder;
+    display: inline-block;
+    font-style: normal;
+}
+.title-2{
+    font-size: 50px;
+    font-weight: lighter;
+}
+.black{
+    color: black;
+}
+.white{
+    color: white;
+}

@@ -1,0 +1,34 @@
+.social-medias-container{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    height: 605px;
+    width: 571px;
+    margin: 24px;
+}
+h4{
+    font-size: 45px;
+    font-weight: normal;
+    margin-bottom: 24px;
+}
+h4.dark{ color: #E5A018; }
+h4.light{ color: #D76015 }
+.icons-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+@media (max-width: 610px){
+    .social-medias-container{
+        width: 100%;
+        height: 250px;
+    }
+    .icons-row{
+        width: 100%;
+        flex-wrap: wrap;
+        height: 250px;
+    }
+}

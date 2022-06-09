@@ -1,0 +1,16 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css');
+i{
+    font-size: 65px;
+    height: 65px;
+    cursor: pointer;
+}
+i.dark{ color: white; }
+i.light{ color: #402A1C }
+.sm{
+    font-size: 33px;
+    height: 33px;
+}
+.md{
+    font-size: 65px;
+    height: 65px;
+}

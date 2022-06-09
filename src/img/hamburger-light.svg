@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+	<title>hamburger-menu-icon-23</title>
+	<defs>
+		<image  width="200" height="200" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQMAAACXljzdAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA1K6XcQizowAAAAJ0Uk5TAP9bkSK1AAAAaklEQVR4nO3VMQ6AIBBE0TEWlh6Bo3h1juIRLCmMSqgnFgQTDP+3r94diaT1dh1ZgpWUZbNyNpULQZBS7WUFK+n16onGarK3EMU2Ikjv0n4bFytsI43XbG8him1EkN6lZgFrtnH/6v38qgf5F4v1LQ0m+gAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		font-family: 'Poppins', sans;
+	}
+
+	::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        @apply bg-accentFont rounded-lg
+    }
+
+    ::-webkit-scrollbar-track {
+        @apply bg-white opacity-20
+    }
+
+	h1 {
+		@apply font-extrabold text-[48px] md:text-[90px] lg:text-[110px] xl:text-[150px] text-center;
+	}
+
+	h2 {
+		@apply font-extralight text-center lg:font-light text-[22px] md:text-[30px] tracking-[.5rem] md:tracking-[1.5rem] lg:tracking-[2.5rem] lg:text-[50px];
+	}
+
+	h3 {
+		@apply text-center font-semibold text-[30px] md:text-[36px] lg:text-[45px] my-10
+	}
+
+	h4#certifications {
+		@apply text-center font-normal text-[28px] md:text-[32px] lg:text-[38px] my-10 
+	}
+
+	h5 {
+		@apply font-bold text-[22px] md:text-[26px] lg:text-[28px] text-left
+	}
+
+	.toggle-label {
+		@apply text-[20px]
+	}
+
+	.card {
+		@apply rounded-lg mx-auto relative p-3;
+	}
+
+	.card-title {
+		@apply text-[35px] md:text-[40px] font-medium my-0;
+	}
+
+	.card-subtitle {
+		@apply font-light text-[18px] md:text-[22px] lg:text-[24px]
+	}
+
+	.card-text{
+		@apply text-[15px] md:text-[18px]
+	}
+}

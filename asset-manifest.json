@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/felipe-web/static/css/main.d82bd98e.css",
-    "main.js": "/felipe-web/static/js/main.af7783bd.js",
+    "main.css": "/felipe-web/static/css/main.8cbeffa2.css",
+    "main.js": "/felipe-web/static/js/main.c4540b86.js",
     "static/js/787.3fe2f517.chunk.js": "/felipe-web/static/js/787.3fe2f517.chunk.js",
     "static/media/PDV Group.jpg": "/felipe-web/static/media/PDV Group.e5723b11256f7beb1837.jpg",
     "static/media/Buller.jpg": "/felipe-web/static/media/Buller.edb2ec3a06710c419158.jpg",
@@ -17,12 +17,12 @@
     "static/media/hamburger-dark.svg": "/felipe-web/static/media/hamburger-dark.3015b8e4a97eeed165c36926c23a1e79.svg",
     "static/media/hamburger-light.svg": "/felipe-web/static/media/hamburger-light.fe401a675530daba8c4fa329af82f947.svg",
     "static/media/light-background.svg": "/felipe-web/static/media/light-background.a864c22a79b219302e48a42552985659.svg",
-    "main.d82bd98e.css.map": "/felipe-web/static/css/main.d82bd98e.css.map",
-    "main.af7783bd.js.map": "/felipe-web/static/js/main.af7783bd.js.map",
+    "main.8cbeffa2.css.map": "/felipe-web/static/css/main.8cbeffa2.css.map",
+    "main.c4540b86.js.map": "/felipe-web/static/js/main.c4540b86.js.map",
     "787.3fe2f517.chunk.js.map": "/felipe-web/static/js/787.3fe2f517.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d82bd98e.css",
-    "static/js/main.af7783bd.js"
+    "static/css/main.8cbeffa2.css",
+    "static/js/main.c4540b86.js"
   ]
 }

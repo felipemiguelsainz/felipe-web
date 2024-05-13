@@ -4,28 +4,19 @@
     display: flex;
     justify-content: space-between;
 }
-.project-card{
-    width: 388px;
-    height: 311px;
+.code-container{
+    margin-top: 4vh;
     border-radius: 14px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    background-color: #202020;
     padding: 12px;
 }
-.project-card > img{
-    width: 355px;
-    height: 194px;
-    border-radius: 15px;
-    cursor: pointer;
-}
-.project-card.dark{
-    background-color: white;
+
+.code-container.dark{
+    background-color: rgb(20, 20, 20);
     color: black;
     cursor: pointer;
 }
-.project-card.light{
+.code-container.light{
     background: rgba(219, 172, 144, 0.5);
 }
 @media (max-width: 1585px){

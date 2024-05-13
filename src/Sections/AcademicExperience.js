@@ -29,7 +29,7 @@ export const AcademicExperience = ({ darkTheme }) => {
 					/>
 					<Card
 						title='Licenciatura en Sistemas'
-						subtitle='UNLU | Enero 2021 - Actualidad'
+						subtitle='Universidad de Palermo | Enero 2022 - Actualidad'
 						darkTheme={darkTheme}
 					/>
 				</div>
